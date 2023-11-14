@@ -1,5 +1,5 @@
 # JMR540
-## Login
+## Login for shell
 - User: Root
 - Password: oelinux123
 
